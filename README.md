@@ -1,2 +1,2 @@
 # Custom-Cursors-For-Windows
-/start 'custom-cursor-api.replit.com' using 'java8'
+Custom Cursors for Windows 7 and above!
